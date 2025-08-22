@@ -1,22 +1,22 @@
-Ex.No:1
-Ex.Name : Write a CPP program for Prefix To Postfix Conversion using Stack STL
-Date:
-Aim:
+# Ex.No:1
+# Ex.Name : Write a CPP program for Prefix To Postfix Conversion using Stack STL
+## Date:
+## Aim:
 
 
-Algorithm:
-
-
-
-
-
-Program:
+## Algorithm:
 
 
 
-Output:
+
+
+## Program:
 
 
 
-Result:
+## Output:
+
+
+
+## Result:
 
