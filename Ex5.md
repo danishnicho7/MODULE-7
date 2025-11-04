@@ -1,5 +1,7 @@
 # Ex.No:5  
 # Ex.Name: FCFS Scheduling Algorithm (3 Processes)  
+## Date:18/09/25
+
 ## Aim:  
 To write a C++ program to implement the First-Come, First-Served (FCFS) scheduling algorithm for three processes with burst times 10, 5, and 8, and to calculate the Waiting Time (WT) and Turnaround Time (TAT).  
 
