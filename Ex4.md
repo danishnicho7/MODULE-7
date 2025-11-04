@@ -1,5 +1,6 @@
 # Ex.No:4  
 # Ex.Name: Queue using Linked List – Insert and Delete Operations  
+## Date:18/09/25
 
 ## Aim:  
 To write a C++ program to implement a Queue using Linked List, insert integer elements into the queue, and delete two items from the queue.  
