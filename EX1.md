@@ -1,5 +1,6 @@
 # Ex.No:1  
 # Ex.Name: Infix to Prefix Conversion using Linked List Stack STL  
+## Date:18/09/25
 
 ## Aim:  
 To write a C++ program to convert an infix expression into a prefix expression using a stack implemented with STL (Linked List based).  
