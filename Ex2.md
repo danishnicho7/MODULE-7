@@ -1,5 +1,6 @@
 # Ex.No:2  
 # Ex.Name: Insert five double elements into Stack using Linked List (STL)  
+## Date:18/09/25
 
 ## Aim:  
 To write a C++ program to insert five double elements into a stack using the STL `stack` container (linked list based), and demonstrate stack operations (push, pop, top, and size).  
